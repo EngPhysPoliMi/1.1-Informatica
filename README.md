@@ -1,6 +1,6 @@
-# 1.1-Informatica
+# 1.1 - Informatica
 
-Repository of "Informatica"
+Repository for "Informatica".
 
 
 ## Use instructions
